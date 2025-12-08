@@ -216,7 +216,7 @@ print(classification_report(test_labels, preds))
 
 ## 📄 **Lisensi**
 
-MIT License — boleh dimodifikasi, digunakan, dan didistribusikan.
+MIT License - boleh dimodifikasi, digunakan, dan didistribusikan.
 
 ---
 
