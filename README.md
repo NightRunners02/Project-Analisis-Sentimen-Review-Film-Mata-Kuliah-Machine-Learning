@@ -238,33 +238,39 @@ Jika proyek ini bermanfaat, jangan lupa kasih ⭐ di repository!
 
 ---
 
-<details>
-<summary><h2>⛓️‍💥 Misc / Statistik Repo</h2></summary>
+<details> 
+  <summary>
+  <h2> ⛓️‍💥 Misc / Lain-lain</h2> 
+  </summary>
 
+<p>
 <div align="center">
-
-### 🗣️ Profile Card
-
-<img src="https://awesome-svg.vercel.app/card/card_2?name=NightRunners02&summary=ML%20&%20NLP%20Enthusiast" />
-
----
-
-### ⭐ Stargazers
-
-[![Stargazers repo roster](https://reporoster.com/stars/NightRunners02/Text-Classification-Comparison)](https://github.com/NightRunners02/Text-Classification-Comparison/stargazers)
+<h3>
+  🗣️ Powered By:
+</h3>
+<img src="https://awesome-svg.vercel.app/card/card_2?name=NightRunners02&summary=Newbie%20Developer&style=nameColor:rgba(223,255,0,1);summaryColor:rgba(57,255,20,1);backgroundColor:rgba(0,0,0,1);" />
 
 ---
-
-### 🍴 Forkers
-
-[![Forkers repo roster](https://reporoster.com/forks/NightRunners02/Text-Classification-Comparison)](https://github.com/NightRunners02/Text-Classification-Comparison/network/members)
+<h3>
+  🌠 Starred:
+</h3>
+  
+[![Stargazers repo roster for @NightRunners02/](https://reporoster.com/stars/NightRunners02/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning)](https://github.com/NightRunners02/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/stargazers)
 
 ---
+<h3>
+  🪐 Forked:
+</h3>
 
-### 📈 Star History
+[![Forkers repo roster for @NightRunners02/](https://reporoster.com/forks/NightRunners02/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning)](https://github.com/NightRunners02/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/network/members)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/Text-Classification-Comparison\&type=Date)](https://star-history.com/#NightRunners02/Text-Classification-Comparison&Date)
+---
+<h3>
+  💫 Star History:
+</h3>
 
+[![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning&type=Date)](https://star-history.com/#Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/Portofolio_Simple&Date)
+
+</p>
 </div>
-
 </details>
