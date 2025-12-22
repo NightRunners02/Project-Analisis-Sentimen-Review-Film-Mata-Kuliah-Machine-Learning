@@ -3,7 +3,7 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge\&logo=python\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge)
